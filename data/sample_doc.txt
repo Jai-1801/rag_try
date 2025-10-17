@@ -1,0 +1,10 @@
+Artificial Intelligence and Machine Learning
+
+Machine learning is a subset of artificial intelligence that focuses on teaching computers to learn from data. 
+Deep learning is a type of machine learning that uses neural networks with multiple layers.
+
+Python is the most popular programming language for machine learning and data science.
+Popular frameworks include TensorFlow, PyTorch, and scikit-learn.
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand human language.
+Large Language Models like GPT and Gemini use transformers architecture for text generation.

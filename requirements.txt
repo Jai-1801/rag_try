@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+google-generativeai
+faiss-cpu
+python-dotenv
+tiktoken
+pydantic
+typing-extensions
